@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="jproject:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="jproject-0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="jproject:war exploded" />
-    </root>
-  </artifact>
-</component>
